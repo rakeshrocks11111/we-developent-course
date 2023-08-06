@@ -1,0 +1,24 @@
+Paths - absolute path & relative path
+
+image that we can talking about is entri.jpg
+
+Relative path
+src="entri.jpg--in the same folder as this file
+src="src/images/entri.jpg--it is in the images and images folder is in the same.
+
+src="/images/entri.jpg--in the images folder and images folder is at the root
+
+src="../entri.jpg---when the images folder one levelup from the folder where the file is present
+
+Where are paths used in HTML?
+--images
+--style sheets--css(file)
+--js file 
+--external links
+--links to another html page of the same project.
+
+Example of obsolute path
+--exact location
+
+Which type of mapping is preffered?
+Relative path.
