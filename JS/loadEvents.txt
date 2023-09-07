@@ -1,0 +1,4 @@
+onload  ---- html page when loaded
+onerror ---- when image shows an error
+onunload --- when the brower will close the html file
+onresize --- when we resize the html file

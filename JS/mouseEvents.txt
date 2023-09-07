@@ -1,0 +1,4 @@
+onmouseover  --  when take mouse on element 
+onmousedown  --  when you clicking and leave it 
+onmousemove  --  move on image
+onmouseout   --  out from image

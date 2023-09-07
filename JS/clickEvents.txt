@@ -1,0 +1,2 @@
+onclick    ---- specific to element  
+ondblclick ---- double click
